@@ -1,0 +1,46 @@
+
+body {
+    background-color: #F2D7EE;
+}
+
+.jumbotron {
+    background-color: #F2D7EE;
+}
+
+.page-header {
+    white-space: nowrap;
+    display:inline-block;
+    text-align: center;
+
+}
+
+.instructions {
+    color: darkslategray;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    margin-bottom: 50px;
+}
+
+p {
+    font-family: 'Encode Sans Condensed', sans-serif;
+    text-align: center;
+}
+
+.crystals {
+    white-space: nowrap;
+    display:inline-block;
+    text-align: center;
+
+}
+
+a:hover {
+      -webkit-transform: scale(1.2);
+      transform: scale(1.2);
+    }
+
+.container {
+    text-align: center
+
+}
+
